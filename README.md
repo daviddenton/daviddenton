@@ -1,4 +1,4 @@
-<img width="720" src="./githubprofile.gif" alt="Hi! I'm David"/>
+<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/>
 
 Joined Github **8** years ago.
 
