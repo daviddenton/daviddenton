@@ -16,18 +16,16 @@ Below is the history of my programming languages; I've been on a typical polyglo
 
 Some detailed stats on my GitHub career in the last **8** years:
 
-**10509** pushed commits.
-**1679** stars on my projects.
-**214** submitted pull requests,
-**103** issues opened.
-**70** personal repos.
-**21** contributed to public repos.
+- **10510** pushed commits.
+- **1679** stars on my projects.
+- **214** submitted pull requests,
+- **103** issues opened.
+- **70** personal repos.
+- **21** contributed to public repos.
 
-<p align="center">
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B120.8%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B119.5%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B17.8%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B122%25)
-</p>
