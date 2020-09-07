@@ -1,6 +1,6 @@
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/></p>
 
-I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them.
+I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them. 🙃
 
 My latest coding passion is Kotlin, in which I created [**http4k**](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications. [**http4k**](https://http4k.org), was featured in the [**ThoughtWorks TechRadar**](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k), in particularly being included for:
  
