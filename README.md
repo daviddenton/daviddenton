@@ -1,14 +1,12 @@
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/></p>
 
-<p text-align="justify">I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them.</p>
+I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them. 
 
-<p text-align="justify">My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the [ThoughtWorks TechRadar](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k) for:</p>
-  
-#####  **"its elegance and simplicity, we also like its emphasis on testability"**. I was pretty happy with that. 😊 
+My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the [ThoughtWorks TechRadar](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k) for **"its elegance and simplicity, we also like its emphasis on testability"**. I was pretty happy with that. 😊
 
-<p text-align="justify">I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.</p>
+I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.
 
-<p text-align="justify">Below is the history of my programming languages; I've been on a typical polyglot journey and worked in many industries, from Banking to Government to Internet Provision to Academic Publishing:</p>
+Below is the history of my programming languages; I've been on a typical polyglot journey and worked in many industries, from Banking to Government to Internet Provision to Academic Publishing:
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
@@ -16,7 +14,7 @@ Some detailed stats on my GitHub career:
 
 I joined Github **8** years ago.
 
-Since then I pushed **10507** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
+Since then I pushed **10508** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
 
 <p align="center">
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
