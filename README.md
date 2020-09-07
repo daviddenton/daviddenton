@@ -1,8 +1,14 @@
 <img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/>
 
-Joined Github **8** years ago.
+I'm a London-based Engineering Lead, passionate about building simple, Test-Driven products and the building the teams to deliver them. Oh, and building simple, Test-Driven, Open Source projects to power them.
 
-Since then I pushed **10498** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
+As you can see from my history, I've been on a typical polyglot journey over the years:
+
+<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/>
+
+I joined Github **8** years ago.
+
+Since then I pushed **10499** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
 
 Most used languages across my projects:
 
@@ -12,5 +18,3 @@ Most used languages across my projects:
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B17.8%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B122%25)
-
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
