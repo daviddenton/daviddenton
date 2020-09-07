@@ -1,10 +1,10 @@
-<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/>
+<p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/></p>
 
-I'm a London-based Engineering Lead, passionate about building simple, Test-Driven products and the building the teams to deliver them. Oh, and building simple, Test-Driven, Open Source projects to power them.
+I'm a London-based Engineering Lead, passionate about building simple, Test-Driven products and the building the teams to deliver them. Oh, and building the simple, Test-Driven, Open Source projects to power them.
 
 As you can see from my history, I've been on a typical polyglot journey over the years:
 
-<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/>
+<p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago.
 
