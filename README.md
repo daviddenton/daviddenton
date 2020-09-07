@@ -1,5 +1,5 @@
 <img src="./githubprofile.gif" alt="Hi! I'm David"/>
-s
+
 Joined Github **8** years ago.
 
 Since then I pushed **10489** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **71** personal projects and contributed to **21** public repositories.
