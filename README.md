@@ -4,7 +4,7 @@ I'm a London-based Engineering Lead; passionate about building simple, Test-Driv
 
 My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the ThoughtWorks TechRadar. They said:
 
-<p align="center><h2>"Apart from its elegance and simplicity, we also like its emphasis on testability" - TW TechRadar</h2></p>
+> "Apart from its elegance and simplicity, we also like its emphasis on testability" - TW TechRadar 
 
 I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.
 
@@ -16,7 +16,7 @@ Some detailed stats on my GitHub career:
 
 I joined Github **8** years ago.
 
-Since then I pushed **10504** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
+Since then I pushed **10505** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
 
 <p align="center">
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
