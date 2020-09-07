@@ -1,4 +1,4 @@
-Hi!
+<img src="./githubprofile.gif" alt="Hi! I'm David"/>
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
