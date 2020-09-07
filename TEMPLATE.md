@@ -24,7 +24,7 @@ Some more detailed stats on my GitHub career in the last **{{ ACCOUNT_AGE }}** y
 
 - **{{ COMMITS }}** pushed commits.
 - **{{ STARS }}** stars on my projects.
-- **{{ PULL_REQUESTS }}** submitted pull requests,
+- **{{ PULL_REQUESTS }}** submitted pull requests.
 - **{{ ISSUES }}** issues opened.
 - **{{ REPOSITORIES }}** personal repos.
 - **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos contributed to.
