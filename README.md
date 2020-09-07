@@ -1,14 +1,14 @@
-<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/>
+<p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/></p>
 
-I'm a London-based Engineering Lead, passionate about building simple, Test-Driven products and the building the teams to deliver them. Oh, and building simple, Test-Driven, Open Source projects to power them.
+I'm a London-based Engineering Lead, passionate about building simple, Test-Driven products and the building the teams to deliver them. Oh, and building the simple, Test-Driven, Open Source projects to power them.
 
 As you can see from my history, I've been on a typical polyglot journey over the years:
 
-<img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/>
+<p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
 I joined Github **8** years ago.
 
-Since then I pushed **10501** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
+Since then I pushed **10502** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
 
 Most used languages across my projects:
 
