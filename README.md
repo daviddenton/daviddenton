@@ -1,8 +1,12 @@
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/githubprofile.gif" alt="Hi! I'm David"/></p>
 
-I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them. 
+I'm a London-based Engineering Lead; passionate about building simple, Test-Driven products and the teams to deliver them. Oh, and also about building the simple, Test-Driven, Open Source tools to power them.
 
-My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the [ThoughtWorks TechRadar](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k) for **"its elegance and simplicity, we also like its emphasis on testability"**. I was pretty happy with that. 😊
+My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the [ThoughtWorks TechRadar](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k) for:
+ 
+##### **"its elegance and simplicity, we also like its emphasis on testability"**
+
+I was pretty happy with that. 😊
 
 I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.
 
@@ -10,11 +14,14 @@ Below is the history of my programming languages; I've been on a typical polyglo
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
-Some detailed stats on my GitHub career:
+Some detailed stats on my GitHub career in the last **8** years:
 
-I joined Github **8** years ago.
-
-Since then I pushed **10508** commits, opened **103** issues, submitted **214** pull requests, received **1679** stars across **70** personal projects and contributed to **21** public repositories.
+**10509** pushed commits.
+**1679** stars on my projects.
+**214** submitted pull requests,
+**103** issues opened.
+**70** personal repos.
+**21** contributed to public repos.
 
 <p align="center">
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
