@@ -16,15 +16,13 @@ Below is the history of my programming languages; I've been on a typical polyglo
 
 Some detailed stats on my GitHub career in the last **{{ ACCOUNT_AGE }}** years:
 
-**{{ COMMITS }}** pushed commits.
-**{{ STARS }}** stars on my projects.
-**{{ PULL_REQUESTS }}** submitted pull requests,
-**{{ ISSUES }}** issues opened.
-**{{ REPOSITORIES }}** personal repos.
-**{{ REPOSITORIES_CONTRIBUTED_TO }}** contributed to public repos.
+- **{{ COMMITS }}** pushed commits.
+- **{{ STARS }}** stars on my projects.
+- **{{ PULL_REQUESTS }}** submitted pull requests,
+- **{{ ISSUES }}** issues opened.
+- **{{ REPOSITORIES }}** personal repos.
+- **{{ REPOSITORIES_CONTRIBUTED_TO }}** contributed to public repos.
 
-<p align="center">
 {{ LANGUAGE_TEMPLATE_START:max=6 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
-</p>
