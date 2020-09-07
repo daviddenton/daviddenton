@@ -4,28 +4,28 @@ I'm a London-based Engineering Lead; passionate about building simple, Test-Driv
 
 My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the [ThoughtWorks TechRadar](https://www.thoughtworks.com/radar/languages-and-frameworks/http4k) for:
  
-##### **"its elegance and simplicity, we also like its emphasis on testability"**
+### **"its elegance and simplicity, we also like its emphasis on testability" - TW TechRadar**
 
 I was pretty happy with that. 😊
 
-I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.
+I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world.
 
 Below is the history of my programming languages; I've been on a typical polyglot journey and worked in many industries, from Banking to Government to Internet Provision to Academic Publishing:
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
-Some detailed stats on my GitHub career in the last **8** years:
-
-- **10510** pushed commits.
-- **1679** stars on my projects.
-- **214** submitted pull requests,
-- **103** issues opened.
-- **70** personal repos.
-- **21** contributed to public repos.
-
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
+Breakdown: ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B126.4%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B120.8%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B119.5%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B17.8%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B122%25)
+
+Some more detailed stats on my GitHub career in the last **8** years:
+
+- **10511** pushed commits.
+- **1679** stars on my projects.
+- **214** submitted pull requests,
+- **103** issues opened.
+- **70** personal repos.
+- **21** public repos contributed to.
