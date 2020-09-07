@@ -4,7 +4,7 @@ I'm a London-based Engineering Lead; passionate about building simple, Test-Driv
 
 My latest coding passion is Kotlin, in which I created [http4k](https://http4k.org), the Functional toolkit for building Kotlin HTTP applications, which was lauded in the ThoughtWorks TechRadar. They said:
 
-> "Apart from its elegance and simplicity, we also like its emphasis on testability" - TW TechRadar 
+<p align="center><h2>"Apart from its elegance and simplicity, we also like its emphasis on testability" - TW TechRadar</h2></p>
 
 I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in London and around the world.
 
