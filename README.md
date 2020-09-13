@@ -10,7 +10,7 @@ I was pretty happy with that. 😊
 
 I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world.
 
-Below is the history of my programming languages; I've been on a typical polyglot journey and worked in many industries including **Investment** **Internet** and **Mobile Banking**, **Academic Publishing**, **Internet Provision** and **Government**:
+Below is the history of my programming languages; I've been on a typical polyglot journey and worked in many industries including **Investment**, **Internet** and **Mobile Banking**, **Academic Publishing**, **Internet Provision** and **Government**:
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
