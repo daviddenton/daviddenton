@@ -21,13 +21,13 @@ Some more detailed stats on my GitHub career in the last **8** years:
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B123.2%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B122.6%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.1%25)
-![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B116.1%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B116%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B12.6%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B118.1%25)
 
-- **11101** pushed commits.
-- **1740** stars on my projects.
-- **228** submitted pull requests.
+- **11122** pushed commits.
+- **1741** stars on my projects.
+- **230** submitted pull requests.
 - **104** issues opened.
 - **71** personal repos.
 - **25** public repos contributed to.
