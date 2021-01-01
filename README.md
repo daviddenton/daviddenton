@@ -26,7 +26,7 @@ Some more detailed stats on my GitHub career in the last **8** years:
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B118.1%25)
 
 - **11650** pushed commits.
-- **1803** stars on my projects.
+- **1804** stars on my projects.
 - **257** submitted pull requests.
 - **106** issues opened.
 - **72** personal repos.
