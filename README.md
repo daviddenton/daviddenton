@@ -8,7 +8,7 @@ My latest coding passion is Kotlin, in which I co-created [**http4k**](https://h
 
 I was pretty happy with that. 😊
 
-I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world.
+I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world. At the end of 2020, I was awarded a place in the [Google Expert Developer](https://developers.google.com/community/experts) program.
 
 Below is the history of my introduction to various languages; I've been on a typical polyglot journey and worked in many industries including **Investment**, **Internet** and **Mobile Banking**, **Academic Publishing**, **Internet Provision** and **Government**:
 
@@ -25,7 +25,7 @@ Some more detailed stats on my GitHub career in the last **8** years:
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B12.5%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B117.3%25)
 
-- **12357** pushed commits.
+- **12359** pushed commits.
 - **1842** stars on my projects.
 - **272** submitted pull requests.
 - **107** issues opened.
