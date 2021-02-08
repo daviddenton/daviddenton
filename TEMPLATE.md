@@ -8,7 +8,7 @@ My latest coding passion is Kotlin, in which I co-created [**http4k**](https://h
 
 I was pretty happy with that. 😊
 
-I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world.
+I'm also active as speaker at various international technology conferences and have also enjoyed developing and delivered Coding Dojos and full Training Courses, both in the UK and around the world. At the end of 2020, I was awarded a place in the [Google Expert Developer](https://developers.google.com/community/experts) program.
 
 Below is the history of my introduction to various languages; I've been on a typical polyglot journey and worked in many industries including **Investment**, **Internet** and **Mobile Banking**, **Academic Publishing**, **Internet Provision** and **Government**:
 
