@@ -14,7 +14,7 @@ Below is the history of my introduction to various languages; I've been on a typ
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
-Some more detailed stats on my GitHub career in the last **9** years:
+Some more detailed stats on my GitHub career in the last **10** years:
 
 #### Language Breakdown:
 
@@ -25,8 +25,8 @@ Some more detailed stats on my GitHub career in the last **9** years:
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B12.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B115.6%25)
 
-- **16890** pushed commits.
-- **2284** stars on my projects.
+- **16897** pushed commits.
+- **2285** stars on my projects.
 - **318** submitted pull requests.
 - **118** issues opened.
 - **74** personal repos.
