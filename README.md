@@ -20,14 +20,14 @@ Some more detailed stats on my GitHub career in the last **11** years:
 
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B134%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B119.6%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.5%25)
-![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B112.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.4%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B112.6%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B12.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B113.9%25)
 
-- **20468** pushed commits.
-- **2599** stars on my projects.
-- **336** submitted pull requests.
+- **20485** pushed commits.
+- **2600** stars on my projects.
+- **340** submitted pull requests.
 - **130** issues opened.
 - **80** personal repos.
-- **23** public repos contributed to.
+- **24** public repos contributed to.
