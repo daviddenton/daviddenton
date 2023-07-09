@@ -27,7 +27,7 @@ Some more detailed stats on my GitHub career in the last **11** years:
 
 - **20750** pushed commits.
 - **2625** stars on my projects.
-- **383** submitted pull requests.
+- **384** submitted pull requests.
 - **130** issues opened.
 - **81** personal repos.
 - **25** public repos contributed to.
