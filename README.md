@@ -25,8 +25,8 @@ Some more detailed stats on my GitHub career in the last **11** years:
 ![Groovy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234298b8&message=Groovy%EF%B8%B14.7%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B113.7%25)
 
-- **23856** pushed commits.
-- **2750** stars on my projects.
+- **23872** pushed commits.
+- **2749** stars on my projects.
 - **585** submitted pull requests.
 - **138** issues opened.
 - **85** personal repos.
