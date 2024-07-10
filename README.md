@@ -23,11 +23,11 @@ Some more detailed stats on my GitHub career in the last **12** years:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B114.4%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B110.8%25)
 ![Groovy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234298b8&message=Groovy%EF%B8%B14.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B113.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B113.6%25)
 
-- **21275** pushed commits.
+- **21290** pushed commits.
 - **2849** stars on my projects.
-- **685** submitted pull requests.
+- **686** submitted pull requests.
 - **139** issues opened.
 - **85** personal repos.
 - **18** public repos contributed to.
