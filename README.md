@@ -30,4 +30,4 @@ Some more detailed stats on my GitHub career in the last **12** years:
 - **832** submitted pull requests.
 - **145** issues opened.
 - **90** personal repos.
-- **32** public repos contributed to.
+- **33** public repos contributed to.
