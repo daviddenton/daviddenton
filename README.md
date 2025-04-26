@@ -14,7 +14,7 @@ Below is the history of my introduction to various languages; I've been on a typ
 
 <p align="center"><img width="720" src="https://raw.githubusercontent.com/daviddenton/daviddenton/master/timeline.png" alt="timeline"/></p>
 
-Some more detailed stats on my GitHub career in the last **12** years:
+Some more detailed stats on my GitHub career in the last **13** years:
 
 #### Language Breakdown:
 
